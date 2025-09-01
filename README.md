@@ -25,7 +25,4 @@
 - **StyleSheet** for styling  
 - **Vector Icons** for UI elements  
 
----
-
-## 📂 Project Structure
 
