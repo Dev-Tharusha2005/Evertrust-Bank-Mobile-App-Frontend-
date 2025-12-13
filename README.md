@@ -7,7 +7,7 @@
 
 ---
 
-<img width="1280" height="720" alt="Dark Modern Elegant Singer New Song YouTube Thumbnail" src="https://github.com/user-attachments/assets/52bf4b3f-59b5-46cf-ab6c-3b79b5112e27" /><img width="600" height="1600" alt="Untitled design" src="https://github.com/user-attachments/assets/fc6a2c6f-9454-4e12-b63a-f6b032c65e22" />
+<img width="1280" height="720" alt="Dark Modern Elegant Singer New Song YouTube Thumbnail" src="https://github.com/user-attachments/assets/52bf4b3f-59b5-46cf-ab6c-3b79b5112e27" />
 
 
 
